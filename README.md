@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm narges
 
 I am a Computer Science student with a passion for software development and problem-solving. I am currently building my foundation in programming, exploring different domains, and working on practical projects. 
 
